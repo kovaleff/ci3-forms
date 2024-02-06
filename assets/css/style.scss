@@ -1,0 +1,23 @@
+@import "bulma/bulma";
+
+h1{
+  font-size: 1.4rem;
+  margin:1rem;
+}
+.icon{
+  width:20px;
+}
+.p1{
+  padding: 1rem;
+}
+.m1{
+  margin: 1rem 0;
+}
+.navbar-start a{
+  color: #333;
+  font-size: 1.5rem;
+
+  &:hover{
+	text-decoration: underline;
+  }
+}
